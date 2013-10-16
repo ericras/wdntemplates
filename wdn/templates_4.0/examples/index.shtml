@@ -146,6 +146,8 @@ require(['jquery', 'wdn', 'require', 'legacy', 'navigation'], function($, WDN, r
 
 #source {
     display: none;
+    border-top: 1px solid;
+    margin: 1em 2em 3em;
 }
 
 #example_code {
